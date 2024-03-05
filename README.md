@@ -10,7 +10,7 @@ How to reach me: bluejayton@gmail.com
 <br>
 Pronouns: He/Him
 <br>
-Fun fact: I'm weirdly into castlse and their defensive design. Ask me about it!
+Fun fact: I'm weirdly into castles and their defensive design. Ask me about it!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueJayton&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
