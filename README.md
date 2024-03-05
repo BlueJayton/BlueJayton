@@ -1,6 +1,6 @@
 Hi, I’m Jayton Schreiner
 <br>
-I’m interested in Full Stack Development
+I’m interested in Software Development
 <br>
 I’m currently learning Responsive Web Design on freeCodeCamp
 <br>
